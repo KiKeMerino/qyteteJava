@@ -1,0 +1,26 @@
+package controladorqytetet;
+
+/**
+ * Enumerado para seleccionar la opcion de Menu correspondiente
+ *
+ * @author cazz & sara
+ */
+public enum OpcionMenu {
+    INICIARJUEGO,
+    JUGAR,
+    APLICARSORPRESA,
+    INTENTARSALIRCARCELPAGANDOLIBERTAD,
+    INTENTARSALIRCARCELTIRANDODADO,
+    COMPRARTITULOPROPIEDAD,
+    HIPOTECARPROPIEDAD,
+    CANCELARHIPOTECA,
+    EDIFICARCASA,
+    EDIFICARHOTEL,
+    VENDERPROPIEDAD,
+    PASARTURNO,
+    OBTENERRANKING,
+    TERMINARJUEGO,
+    MOSTRARJUGADORACTUAL,
+    MOSTRARJUGADORES,
+    MOSTRARTABLERO
+}
